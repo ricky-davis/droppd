@@ -1,20 +1,3 @@
-<!--
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** ricky-davis, droppd, twitter_handle, email
--->
-
-
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -138,4 +121,4 @@ Project Link: [https://github.com/ricky-davis/droppd](https://github.com/ricky-d
 [issues-shield]: https://img.shields.io/github/issues/ricky-davis/droppd.svg?style=flat-square
 [issues-url]: https://github.com/ricky-davis/droppd/issues
 [license-shield]: https://img.shields.io/github/license/ricky-davis/droppd.svg?style=flat-square
-[license-url]: https://github.com/ricky-davis/droppd/blob/master/LICENSE.txt
+[license-url]: https://github.com/ricky-davis/droppd/blob/master/LICENSE
